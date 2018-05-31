@@ -1,0 +1,295 @@
+
+.container1 {
+	background-color: rgb(241,241,241);
+	padding-left: 20px;
+	max-width: 100% !important;
+}
+
+.sbox {
+	border: 1px solid rgba(0,0,0,.15);
+	padding: 2px 180px 2px 180px;
+}
+
+.middle-one {
+	padding-top: 12px;
+}
+
+.sbutton {
+	padding: 1px 20px 1px 20px;
+	background-color: blue;
+	color: white;
+	border: 1px solid rgba(0,0,0,.15);
+}
+
+.div3 {
+	padding-top: 7px;
+	padding-left: 150px;
+}
+
+.lstbtn1 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	font-size: 20px !important;
+	border: 0 !important;
+}
+
+.lstbtn2 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	font-size: 20px !important;
+	border: 0 !important;
+}
+
+.lstbtn3 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	font-size: 20px !important;
+	border: 0 !important;
+}
+
+
+
+
+/*line2*/
+
+.drpbtn1 {
+	padding-top: 8px;
+}
+
+.drpsbtn1 {
+	background-color: white !important;
+	color: rgb(225,0,0) !important;
+	border: 0 !important;
+	font-size: 20px !important;
+	padding-left: 30px !important;
+}
+
+.drpbtn2 {
+	padding-top: 10px;
+}
+
+.dbt{
+	padding-left: 15px;
+}
+
+.drpsbtn2 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	padding-left: 22px !important;
+	padding-right: 22px !important;
+	border: 0 !important;
+}
+
+.drpbtn3 {
+	padding-top: 10px;
+	padding-left: 65px !important;
+}
+
+.dbtn3 {
+	border: 0;
+	padding: 7px 35px 4px 35px;
+	background-color: rgb(241,241,241);
+	border-radius: 5px;
+}
+
+.drpbtn4 {
+	padding-top: 10px;
+	padding-left: 50px !important;
+}
+
+.drpsbtn4 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	padding-left: 22px !important;
+	padding-right: 22px !important;
+	border: 0 !important;
+}
+
+.lastrow {
+	padding-top: 10px;
+	padding-left: 200px !important;
+}
+
+.zero{
+	padding-top: 5px;
+}
+
+.btn5 {
+	padding-left: 10px;
+}
+
+.gbtn1{
+	background-color: rgb(241,241,241) !important;
+	color: rgba(0,0,0,15) !important;
+	border:rgba(0,0,0,15) !important;
+}
+
+.gbtn2{
+	background-color: rgb(241,241,241) !important;
+	color: rgba(0,0,0,15) !important;
+	border:rgba(0,0,0,15) !important;
+}
+
+
+.last1 {
+	padding-left: 10px;
+}
+
+.lst1 {
+	background-color: rgb(241,241,241) !important;
+	color: black !important;
+	padding-left: 22px !important;
+	padding-right: 22px !important;
+	border: 0 !important;
+}
+
+.cbtn {
+	padding-left: 35px !important;
+}
+
+.compbtn {
+	background-color: rgb(215,73,55) !important;
+	border: 0 !important;
+	color: white !important;
+	font-size: 14px !important;
+	padding: 5px 25px 5px 25px !important;
+	border-radius: 5px !important;
+}
+
+.grpbtn {
+	padding-left: 29px !important;
+}
+
+.grpbtn1 {
+	background-color: white !important;
+	color: black !important;
+	padding: 7px 150px 7px 17px !important;
+}
+
+.grpbtn2 {
+	background-color: white !important;
+	color: black !important;
+	padding: 0px 150px 0px 17px !important;
+}
+
+.grpbtn3 {
+	background-color: white !important;
+	color: black !important;
+	padding: 0px 150px 0px 17px !important;
+}
+
+
+.inbtn {
+	background-color: white;
+	border:0;
+}
+
+.stbtn {
+	background-color: white;
+	border:0;
+}
+
+.sentbtn {
+	background-color: white;
+	border:0;
+}
+
+.drftbtn {
+	background-color: white;
+	border:0;
+}
+
+.mdbtn {
+	padding-left: 30px;
+}
+
+.drpdwnbtn {
+	background-color: white !important;
+	color: black !important;
+	border: 0 !important;
+}
+
+.drpdwnbtn01 {
+	background-color: white !important;
+	color: black !important;
+	border: 0 !important;	
+}
+
+
+/*compose message*/
+
+.popupp {
+	background-color: rgb(241,241,241);
+	position: absolute;
+	right: 0px; 
+}
+
+.display_none {
+	display: none;
+}
+
+.display_block {
+	display: block;
+}
+.popup {
+	background-color: rgb(64,64,64);
+	color: white;
+}
+
+.frm1 {
+	border-radius: 0px !important;
+	border-bottom: 0px !important;
+}
+
+.topp {
+	margin: 0px !important;
+}
+
+.top1 {
+	padding-left: 96px !important;
+}
+
+.mrgn {
+	margin-bottom: 0px !important;
+}
+
+.lst {
+	padding-top: 10px;
+	padding-left: 25px !important;
+}
+
+.sndbtn {
+	background-color: rgb(74,139,245);
+	color: white;
+	border: 0;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.cmbtn {
+	border: 0px !important;
+	background-color: rgb(241,241,241) !important;
+}
+
+.lst2 {
+	padding-top: 10px;
+}
+
+.cbutn {
+	border: 0;
+	background-color: rgb(64,64,64);
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
